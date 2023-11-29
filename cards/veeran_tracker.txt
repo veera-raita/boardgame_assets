@@ -1,0 +1,104 @@
+z(Determine the amount of study points needed to win the game. Short length game is 10 points, medium game is 20 points and long game is above 30 points.)
+(Turn order is determined by the amount of study points, starting with the player with the LOWEST amount. In case of a tie, players roll to see who starts.)
+(Invite cards are played before any other type of card. Only 1 Invite card can be played during the week. Invite card that was countered or blocked for any reason does not count towards this limit.)
+
+	EXAM: 2d6 + BRN. For each point above 10, gain 1 study point.
+(Exam takes place during friday in the exam slot)
+
+
+Character Cards
+	Nerd: 5 MTV / 1 HP / 2 e || Gains a bonus of +1 to all rolls to pass a class.
+	Jock: 4 MTV / 3 HP / 1 e || Gym cards have no money cost. Can use a Gym or Park card as an instant counter against any other Invite card played against them. Gym or Park card played this way does not count towards the limit of 1 Invite card per week.
+	Old Money: 3 MTV / 2 HP / 3 + d3 kronor|| Swedish classes always cost one less MTV and their difficulty class is counted as 2 lower. Draws an extra event from Old Money deck at the start of the week that has to be played during that week.
+	Nap Enjoyer: 3 MTV / 3 HP / 2 e || Gains an extra +1 MTV for using the Nap action and Nap Club card.
+	Social Butterfly: 4 MTV / 1 HP / 3 e || Can play any number of Invite cards during a week.
+	Gambler: 5 MTV / 2 HP / 1 e or 1d6-1d6 e || Must choose one of the options for money at the start of each week. Can roll an extra 1d6 for exam instead of using any BRN.
+	That One Student in the Background: 4 MTV / 2 HP / 2 e || No bonuses.
+
+(BRN, MTV, HP and e reset at the start of the week. Items and cards in hand do not reset.)
+
+
+Base Actions
+	Skip - Instant. Player does not attend the next class.
+	Study - Roll to pass a class that player attended during the week. If rolling for a class that player has passed previosuly, the base MTV cost for that class is increased by 1.
+	Shop - Draw 3 Item cards from the Item deck. The player may purchase any of these cards for 1 e each.
+	Nap - +1 MTV
+	Workout - +1 HP
+
+ITEM CARDS.(x5 each in the deck)
+	Food: Instant. +1 HP
+	Fast food: Instant. +1 MTV
+	Energy Drink - Instant. Reduces class base MTV cost by 1.
+
+CLASS DECK (x3 each in the deck)
+	Game Design - 1 MTV | DC 3+
+	Coding and Math - 1 MTV | DC 4+
+	Game Developement - 1 MTV | DC 3/4/5+
+	Game Testing - 2 MTV | DC 3+
+	Graphics and modelling - 2 MTV | DC 4+
+	Swedish - 2 MTV | DC 5+
+
+
+OLD MONEY DECK (Jättebra x3, others x1)
+	Jättebra: No effect.
+	Visit by an Old One: -1 HP. Instant.
+	Call of Papa: -1 MTV. Instant.
+	Friend at the Doorstep: -1 krona. Instant.
+	Cruise to Sweden: +2 MTV, -1 krona.
+	Family Gathering: Skip a chosen class during the week. +1 HP, +1 krona.
+	Compulsive Selfcare Routine: +2 MTV, +1 HP, -2 kronor.
+	
+	
+
+EVENT DECK
+ 
+Mods (Can only play one Mod card in a week. Mod cards are played as Instant cards, but they have to be played before the class starts. Mod card is attached to a class card facing down. The player who played a mod card to a class chooses their action for the class last regardless of the turn order. The mod card is revealed only after each player has chosen their action for the class. Only 1 mod card can be attached to a single class.)
+	All According to Keikaku: This card has no actual effect. (x3)
+ADDED
+	Class Cancelled at Last Second: Class becomes free time. Any points of MTV spent for the class are lost. (x1)
+ADDED
+	Mix Up with the Schedule: Class also takes up the next free time slot. Players taking part of the class cannot be targeted by Invite cards during this time period nor can they play cards that are not Instant. (x1)
+ADDED
+	Too Easy: DC of the class decreased by 1. (x2)
+ADDED
+	Too Hard: DC of the class increased by 1. (x2)
+ADDED
+	Everyone Forgot to Include Sources: Only an unmodified roll of 6 for DC counts as success for this class. (x1)
+ADDED
+
+Events
+	Cook Meal: Gain 3 Food. (x3)
+ADDED
+	Classy Restaurant: Restores 1 HP. Spend up to 3 e, for each e spent gain +1 MTV. (x3)
+ADDED
+	Energy Drink Sale: Gain 3 Energy Drinks. (x3)
+ADDED
+	Extracullicular Lecture: +1 BRN, +1 badge (x2)
+ADDED
+	Stipend for Something: +2 e, +1 badge (x2)
+	Part-Time Job: Spend up to 3 MTV and/or HP: For each point spent, gain 1 e. (x5)
+	YTHS visit: +3 HP. (x3)
+ADDED
+	Hangover: Target player's base MTV of their next class is 1 higher than normal. (x2)
+
+Instants
+	Order Fast Food: Instant. Gain 1 Fast Food. (x3)
+	Gamer Injury: Instant. Target player suffers -1 HP. (x3)
+	Student's Block: Instant. Counters target's action. Countered card and this card are both discarded. Countered player does not count as having played any card. (x2)
+
+
+
+Invites
+	Gamenight: +2 MTV -1 HP +1 BDG (x2)
+	Fastfood: +2 MTV -1 e +1 BDG  (x2)
+	Bar: +2 MTV -1 HP - 1 e +1 BDG  (x2)
+	Dine: +1 MTV +1 HP -2 e +1 BDG  (x2)
+	Gym: +1 MTV +1 HP -1 e +1 BDG  (x2)
+	Nap Club: +1 MTV +1 HP +1 BDG  (x2)
+	Group Study: +1 MTV +1 BDG  (x2)
+	Park: +1 HP +1 BDG  (x2)
+	Hangover: Targeted player counts the MTV cost of their next class as 1 higher than normal. (x2)
+	Group Skip: Player and the target both Skip their next class. (x2)
+
+
+(Invite cards affect both the user and one chosen target unless otherwise stated. If either player is unable to pay the cost for the card, then that player is blocked and they cannot play cards that are not Instant.)
