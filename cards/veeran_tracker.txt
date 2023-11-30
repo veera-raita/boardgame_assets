@@ -103,7 +103,6 @@ Invites
 	Nap Club: +1 MTV +1 HP +1 BDG  (x2)	ADDED
 	Group Study: +1 MTV +1 BDG  (x2)	ADDED
 	Park: +1 HP +1 BDG  (x2)		ADDED
-	Hangover: Targeted player counts the MTV cost of their next class as 1 higher than normal. (x2)
 	Group Skip: Player and the target both Skip their next class. (x2)	ADDED
 
 
