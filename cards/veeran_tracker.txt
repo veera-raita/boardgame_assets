@@ -76,29 +76,35 @@ ADDED
 	Extracullicular Lecture: +1 BRN, +1 badge (x2)
 ADDED
 	Stipend for Something: +2 e, +1 badge (x2)
+ADDED
 	Part-Time Job: Spend up to 3 MTV and/or HP: For each point spent, gain 1 e. (x5)
+ADDED
 	YTHS visit: +3 HP. (x3)
 ADDED
 	Hangover: Target player's base MTV of their next class is 1 higher than normal. (x2)
+ADDED
 
 Instants
 	Order Fast Food: Instant. Gain 1 Fast Food. (x3)
+ADDED
 	Gamer Injury: Instant. Target player suffers -1 HP. (x3)
+ADDED
 	Student's Block: Instant. Counters target's action. Countered card and this card are both discarded. Countered player does not count as having played any card. (x2)
+ADDED
 
 
 
 Invites
-	Gamenight: +2 MTV -1 HP +1 BDG (x2)
-	Fastfood: +2 MTV -1 e +1 BDG  (x2)
-	Bar: +2 MTV -1 HP - 1 e +1 BDG  (x2)
-	Dine: +1 MTV +1 HP -2 e +1 BDG  (x2)
-	Gym: +1 MTV +1 HP -1 e +1 BDG  (x2)
-	Nap Club: +1 MTV +1 HP +1 BDG  (x2)
-	Group Study: +1 MTV +1 BDG  (x2)
-	Park: +1 HP +1 BDG  (x2)
+	Gamenight: +2 MTV -1 HP +1 mBDG (x2)	ADDED
+	Fastfood: +2 MTV -1 e +1 BDG  (x2)	ADDED
+	Bar: +2 MTV -1 HP - 1 e +1 BDG  (x2)	ADDED
+	Dine: +1 MTV +1 HP -2 e +1 BDG  (x2)	ADDED
+	Gym: +1 MTV +1 HP -1 e +1 BDG  (x2)	ADDED
+	Nap Club: +1 MTV +1 HP +1 BDG  (x2)	ADDED
+	Group Study: +1 MTV +1 BDG  (x2)	ADDED
+	Park: +1 HP +1 BDG  (x2)		ADDED
 	Hangover: Targeted player counts the MTV cost of their next class as 1 higher than normal. (x2)
-	Group Skip: Player and the target both Skip their next class. (x2)
+	Group Skip: Player and the target both Skip their next class. (x2)	ADDED
 
 
 (Invite cards affect both the user and one chosen target unless otherwise stated. If either player is unable to pay the cost for the card, then that player is blocked and they cannot play cards that are not Instant.)
