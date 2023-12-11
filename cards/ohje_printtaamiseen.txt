@@ -1,0 +1,2 @@
+printtaa kaikki _FRONTS_READY ja _BACKS_READY kansioista.
+JOS filenamessa lukee printtien määrä, printtaa sen verran, muuten 1 riittää.
